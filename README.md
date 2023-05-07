@@ -17,17 +17,21 @@ It will be able to process messages from users and respond to them:
 Link to the bot `t.me/prctice_bot`
 
 ### Command examples
-`command: /exec Hello
-response: Hi there, I'm your Kbot v1.0.0!
 
-command: /exec GoodBye
-response: Thanks for using Kbot v1.0.0! See you soon!
 
-command: /exec How are u?
-response: I'm fine, and u?
+	command: /exec Hello
+	response: Hi there, I'm your Kbot v1.0.0!
 
-command: /exec Can you sing for me?
-response: No, I'm not a human and cant do it...
-`
+	command: /exec GoodBye
+	response: Thanks for using Kbot v1.0.0! See you soon!
+
+	command: /exec How are u?
+	response: I'm fine, and u?
+
+	command: /exec Can you sing for me?
+	response: No, I'm not a human and cant do it...
+
+
+
     
  
